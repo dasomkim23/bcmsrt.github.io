@@ -1,5 +1,13 @@
 export const currentProjects = [
   {
+    name: "BCCDC COVID-19 Testing Phoneline",
+    location: "Vancouver, BC",
+    description: "Answering/making calls regarding testing results and logging them into their EMR-type system; Since the changes to the testing strategy, call volumes have increased.",
+    studentRole: "Calling/texting a list of contacts with negative COVID results. Unpaid, hoping for students to fill 2 8-hour shifts/week. Located at the BCCDC office near VGH, office is compliant with all social distancing protcols.",
+    numStudents: "8 students in the Class of 2022 and 2023",
+    notes: "Thank you!",
+  },
+  {
     name: "Contact Tracing with Alberta Public Health",
     location: "Calgary AB and Remote Friendly",
     description: "Medical students, residents (public health and off service), nurses, nursing students and physicians in both Calgary and Edmonton are all working together to drastically scale up provincial contact tracing efforts. This work is done both in person at the Sheldon Chumir Center in Calgary as well as remotely from home.",
@@ -260,14 +268,6 @@ export const sustainingProjects = [
     studentRole: "Role 1: To provide technical support for physicians using Zoom. Possibility to expand to provide technical support to patients to help connect for scheduled online appointments. Answer phone calls and emails during scheduled times. Unpaid. 5-10 hours/week. \n Role 2: Collect existing technical support information and create summaries of this information to be housed on a website. Unpaid. 5-10 hours/week.",
     numStudents: "2-3 students for each role. Open to all years",
     notes: "Please indicate if you are interested in role 1, 2 or both. Experience with zoom beneficial for role 1."
-  },
-  {
-    name: "BCCDC COVID-19 Testing Phoneline",
-    location: "Vancouver, BC",
-    description: "Answering/making calls regarding testing results and logging them into their EMR-type system; Since the changes to the testing strategy, call volumes have increased.",
-    studentRole: "Calling/texting a list of contacts with negative COVID results. Unpaid, hoping for students to fill 2 8-hour shifts/week. Located at the BCCDC office near VGH, office is compliant with all social distancing protcols.",
-    numStudents: "6-10 students.",
-    notes: "The BCCDC would prefer if students have an active PHSA account to use their EMR. Please indicate in your form if you have a PHSA account. Thank you!",
   },
   {
     name: "Community Supports for Patients with Disabilities",
