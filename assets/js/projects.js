@@ -1,13 +1,5 @@
 export const currentProjects = [
   {
-    name: "BCCDC COVID-19 Testing Phoneline",
-    location: "Vancouver, BC",
-    description: "Answering/making calls regarding testing results and logging them into their EMR-type system; Since the changes to the testing strategy, call volumes have increased.",
-    studentRole: "Calling/texting a list of contacts with negative COVID results. Unpaid, hoping for students to fill 2 8-hour shifts/week. Located at the BCCDC office near VGH, office is compliant with all social distancing protcols.",
-    numStudents: "8 students in the Class of 2022 and 2023",
-    notes: "Thank you!",
-  },
-  {
     name: "Contact Tracing with Alberta Public Health",
     location: "Calgary AB and Remote Friendly",
     description: "Medical students, residents (public health and off service), nurses, nursing students and physicians in both Calgary and Edmonton are all working together to drastically scale up provincial contact tracing efforts. This work is done both in person at the Sheldon Chumir Center in Calgary as well as remotely from home.",
@@ -116,6 +108,14 @@ export const sustainingProjects = [
     studentRole: "Medical students have been helping to staff the phone lines at 811 call centres. The medical student role is NON-CLINICAL, helping to route calls to the correct service and deciding which patients need to speak with a nurse.",
     numStudents: "70 students at present. We are currently at capacity, but there may be room for more students in the future if HealthLinkBC opens up more positions or if attrition of current workers occurs.",
     notes: "Paid position."
+  },
+  {
+    name: "BCCDC COVID-19 Testing Phoneline",
+    location: "Vancouver, BC",
+    description: "Answering/making calls regarding testing results and logging them into their EMR-type system; Since the changes to the testing strategy, call volumes have increased.",
+    studentRole: "Calling/texting a list of contacts with negative COVID results. Unpaid, hoping for students to fill 2 8-hour shifts/week. Located at the BCCDC office near VGH, office is compliant with all social distancing protcols.",
+    numStudents: "8 students in the Class of 2022 and 2023",
+    notes: "Thank you!",
   },
   {
     name: "Fraser Health Employee Contact Tracing",
