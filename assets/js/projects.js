@@ -1,5 +1,14 @@
 export const currentProjects = [
   {
+    name: "Connecting with Compassion",
+    location: "Remote Friendly",
+    description: "Social distancing during the COVID-19 pandemic is critical for public health, yet it creates a conundrum for frail and vulnerable older adults residing in Long-Term Care (LTC) homes. Residents often rely on visits from family and friends to prevent loneliness, boredom and social isolation. The challenge is even greater for seniors with cognitive impairment who may not fully understand the rationale for why family members are no longer visiting them. There is an urgent need to bridge the communication gap created by social distancing. Technology may be one of the ways to connect family members with long-term care residents, and thus prevent social isolation. We have purchased iPads with data capability for distribution at Mount St. Joseph LTC and UBC hospital for the project, initiating Phase 2 shortly.",
+    studentRole: "The student will connect with a LTC resident via Zoom/Facetime/videoconference once per week at a regular time. The primary purpose will be to provide social connection and conversation for the seniors. Anticipated time commitment will be 2 hours/week. Unpaid.",
+    numStudents: "30 students",
+    notes: "We welcome all students! We are short of Cantonese and Spanish speakers, so we encourage students who speak these languages to partake in this project. Please indicate on your Google Form if you have conversational fluency in a language other than English.",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSemEkxc82daJryCL-uuuZR7YB5uSefU4L5weKnnfbc48Ral3A/viewform",
+  },
+  {
     name: "Contact Tracing with Alberta Public Health",
     location: "Calgary AB and Remote Friendly",
     description: "Medical students, residents (public health and off service), nurses, nursing students and physicians in both Calgary and Edmonton are all working together to drastically scale up provincial contact tracing efforts. This work is done both in person at the Sheldon Chumir Center in Calgary as well as remotely from home.",
@@ -316,15 +325,6 @@ export const sustainingProjects = [
     numStudents: "10 minimum",
     notes: "8:30am-4:40pm, 3 days/week (weekdays & weekends), for a total of about 3 weeks. This would be on a self-scheduling basis, so you will get to choose which days of the week you want to work, for a total of 24hrs (3 days)/week. \n Please indicate in comments: \n 1) Will you be available at 1pm on Sunday, May 3rd for online training? \n 2) Will you be available to start your first shift on Monday, May 4th? \n 3) If not, when is your earliest available date?"
   }, 
-  {
-    name: "Connecting with Compassion",
-    location: "Remote Friendly",
-    description: "Social distancing during the COVID-19 pandemic is critical for public health, yet it creates a conundrum for frail and vulnerable older adults residing in Long-Term Care (LTC) homes. Residents often rely on visits from family and friends to prevent loneliness, boredom and social isolation. The challenge is even greater for seniors with cognitive impairment who may not fully understand the rationale for why family members are no longer visiting them. There is an urgent need to bridge the communication gap created by social distancing. Technology may be one of the ways to connect family members with long-term care residents, and thus prevent social isolation. We have purchased 50 iPads with data capability for distribution at Mount St. Joseph LTC and UBC hospital for the first phase of this endeavour.",
-    studentRole: "The student will connect with a LTC resident via Zoom/Facetime/videoconference once per week at a regular time. The primary purpose will be to provide social connection and conversation for the seniors. Anticipated time commitment will be 2 hours/week. Unpaid.",
-    numStudents: "25 students total, with 10 reserved for students with conversational fluency in Mandarin or Cantonese to best serve our older adults at MSJ.",
-    notes: "Please indicate on your Google Form if you have conversational fluency in a language other than English.",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSemEkxc82daJryCL-uuuZR7YB5uSefU4L5weKnnfbc48Ral3A/viewform",
-  },
   {
     name: "PHSA Infection Prevention and Control Manual Team",
     location: "Remote",
