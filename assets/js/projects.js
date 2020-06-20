@@ -12,7 +12,7 @@ export const currentProjects = [
     name: "BCCDC COVID-19 Testing Phoneline",
     location: "Vancouver, BC",
     description: "Answering/making calls regarding testing results and logging them into their EMR-type system; Since the changes to the testing strategy, call volumes have increased.",
-    studentRole: "Calling/texting a list of contacts with negative COVID results. Unpaid, hoping for students to fill 2 8-hour shifts/week. Located at the BCCDC office near VGH, office is compliant with all social distancing protcols.",
+    studentRole: "Calling/texting a list of contacts with negative COVID results. Unpaid, hoping for students to fill 2 8-hour shifts/week. Located at the BCCDC office near VGH, office is compliant with all social distancing protocols.",
     numStudents: "15 students in the Class of 2023",
     notes: "Thank you!",
   },
