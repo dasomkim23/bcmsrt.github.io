@@ -136,6 +136,23 @@ export const sustainingProjects = [
     notes: "Paid position."
   },
   {
+    name: "Connecting with Compassion",
+    location: "Remote Friendly",
+    description: "Social distancing during the COVID-19 pandemic is critical for public health, yet it creates a conundrum for frail and vulnerable older adults residing in Long-Term Care (LTC) homes. Residents often rely on visits from family and friends to prevent loneliness, boredom and social isolation. The challenge is even greater for seniors with cognitive impairment who may not fully understand the rationale for why family members are no longer visiting them. There is an urgent need to bridge the communication gap created by social distancing. Technology may be one of the ways to connect family members with long-term care residents, and thus prevent social isolation. We have purchased iPads with data capability for distribution at Mount St. Joseph LTC and UBC hospital. We're initiationg phase 2 shortly",
+    studentRole: "The student will connect with a LTC resident via Zoom/Facetime/videoconference once per week at a regular time. The primary purpose will be to provide social connection and conversation for the seniors. Anticipated time commitment will be 2 hours/week. Unpaid.",
+    numStudents: "30 students",
+    notes: "We welcome all students! We are short of Cantonese and Spanish speakers, so we encourage students who speak these languages to partake in this project. Please indicate on your Google Form if you have conversational fluency in a language other than English.",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSemEkxc82daJryCL-uuuZR7YB5uSefU4L5weKnnfbc48Ral3A/viewform",
+  },
+ {
+    name: "BCCDC COVID-19 Testing Phoneline",
+    location: "Vancouver, BC",
+    description: "Answering/making calls regarding testing results and logging them into their EMR-type system; Since the changes to the testing strategy, call volumes have increased.",
+    studentRole: "Calling/texting a list of contacts with negative COVID results. Unpaid, hoping for students to fill 2 8-hour shifts/week. Located at the BCCDC office near VGH, office is compliant with all social distancing protocols.",
+    numStudents: "15 students in the Class of 2023 starting July 6th",
+    notes: "Thank you!",
+  },
+  {
     name: "Fraser Health Employee Contact Tracing",
     location: "Fraser Health Offices, Surrey, BC",
     description: "As the number of COVID-19 cases grow, more and more healthcare workers are being exposed to the virus, both from patients who test positive and from their colleagues who are contracting the virus in the community. Students are joining response teams within Workplace Health at Fraser Health to call and notify frontline healthcare workers across the province of their exposure to the virus and then providing advice on next steps, PPE use, and testing if necessary. This role evolves daily as new exposures continue to occur. As the role evolves, students may transition into additional roles either doing data entry of positive test results, triaging new cases, and/or responding to voicemails on the COVID-19 call line for Fraser Health. The position is paid and hours range from 20-36 hours/week.",
