@@ -1,4 +1,30 @@
 export const currentProjects = [
+ {
+    name: "BCCDC Data Registry",
+    location: "BCCDC. 655 W 12th Ave, Vancouver, BC V5Z 4R4",
+    description: "BCCDC is looking for volunteers to call COVID-19 survivors to enrol them in a data registry that will be used for future research. This project is estimated to start on July 22, 23 and run for about 3-4 weeks. There will be an online introduction prior to the start. This project takes place in the BCCDC building, where they are careful to maintain physical distancing with adequate sanitization of the desks and computers. The time commitment is 12 hours/week, broken down into two 6-hour shifts that you will be able to self-schedule. We are also looking for a student coordinator to help lead this project!",
+    studentRole: "Students will be answering phone calls and calling COVID-19 survivors to enrol them in a research registry.",
+    numStudents: "10 students (minimum) from the class 2022 and 2023.",
+    notes: "Students can schedule 6-hour shifts between 8:30am-4:30pm, 2 days/week (weekdays & weekends), for a total of about 3-4 weeks. This will be on a self-scheduling basis, so you will get to choose which days of the week you want to work, for a total of 12hrs (2 days)/week.",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSemEkxc82daJryCL-uuuZR7YB5uSefU4L5weKnnfbc48Ral3A/viewform",
+  },
+ {
+    name: "Connecting with Compassion",
+    location: "Remote Friendly",
+    description: "Social distancing during the COVID-19 pandemic is critical for public health, yet it creates a conundrum for frail and vulnerable older adults residing in Long-Term Care (LTC) homes. Residents often rely on visits from family and friends to prevent loneliness, boredom and social isolation. The challenge is even greater for seniors with cognitive impairment who may not fully understand the rationale for why family members are no longer visiting them. There is an urgent need to bridge the communication gap created by social distancing. Technology may be one of the ways to connect family members with long-term care residents, and thus prevent social isolation. We have purchased iPads with data capability for distribution at Mount St. Joseph LTC and UBC hospital. We're initiationg phase 2 shortly",
+    studentRole: "The student will connect with a LTC resident via Zoom/Facetime/videoconference once per week at a regular time. The primary purpose will be to provide social connection and conversation for the seniors. Anticipated time commitment will be 2 hours/week. Unpaid.",
+    numStudents: "30 students",
+    notes: "We welcome all students! We are short of Cantonese and Spanish speakers, so we encourage students who speak these languages to partake in this project. Please indicate on your Google Form if you have conversational fluency in a language other than English.",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSemEkxc82daJryCL-uuuZR7YB5uSefU4L5weKnnfbc48Ral3A/viewform",
+  },
+  {
+    name: "BCCDC COVID-19 Testing Phoneline",
+    location: "Vancouver, BC",
+    description: "Answering/making calls regarding testing results and logging them into their EMR-type system; Since the changes to the testing strategy, call volumes have increased.",
+    studentRole: "Calling/texting a list of contacts with negative COVID results. Unpaid, hoping for students to fill 2 8-hour shifts/week. Located at the BCCDC office near VGH, office is compliant with all social distancing protocols.",
+    numStudents: "15 students in the Class of 2023 starting July 6th",
+    notes: "Thank you!",
+  },
   {
     name: "Contact Tracing with Alberta Public Health",
     location: "Calgary AB and Remote Friendly",
