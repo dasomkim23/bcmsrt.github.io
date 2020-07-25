@@ -1,4 +1,13 @@
 export const currentProjects = [
+{
+    name: "Oncology Patient Screening",
+    location: "Remote Friendly",
+    description: "At BC Cancer, we are looking for the help of medical students to screen patients for COVID-19 symptoms via telephone, prior to patients coming to clinic. As you know, cancer patients are especially vulnerable to infection, and we are doing everything possible to prevent the spread of COVID-19. Students will volunteer for a 1-2 hr shift, once per week. This position starts on Aug 1 and continues into the school year. Unpaid.",
+    studentRole: "Screen patients via telephone prior to coming to BCCA. 1-2h/day/week",
+    numStudents: "5",
+    restrictions: "Students in Class of 2023",
+    notes: "Please indicate if you have a health authority email"
+  },
  {
     name: "BCCDC Data Registry",
     location: "BCCDC. 655 W 12th Ave, Vancouver, BC V5Z 4R4",
@@ -357,15 +366,6 @@ export const sustainingProjects = [
     studentRole: "This position will involve establishing media partnerships and collaborating with existing MSRT projects to bring exposure to efforts that would benefit from media coverage.",
     numStudents: "1 student",
     notes: "Communications experience is an asset. Please mention your experience when applying.",
-  },
-  {
-    name: "Oncology Patient Screening",
-    location: "Remote Friendly",
-    description: "At BC Cancer, we are looking for the help of medical students to​ screen patients for COVID-19 symptoms via telephone, prior to patients coming to clinic. As you know, cancer patients are especially vulnerable to infection, and we are doing everything possible to prevent the spread of COVID-19. We are looking for two types of roles: 1) coordinators who will help distribute the patients to be screened to other medical students, and help with the screening themselves, and 2) screeners to help screen patients. Commitment for coordinators will be several days a week for several hours. Screeners will volunteer for 1-2 hours per day that they volunteer. Unpaid.",
-    studentRole: "See above. 2-4h/day time commitment.",
-    numStudents: "10",
-    restrictions: "Year 1/2 students.",
-    notes: "Please indicate if you have a health authority email"
   },  
 ]
 
