@@ -101,7 +101,7 @@ export const futureProjects = [
 
 
 export const sustainingProjects = [
- {
+  {
     name: "Oncology Patient Screening",
     location: "Remote Friendly",
     description: "At BC Cancer, we are looking for the help of medical students to screen patients for COVID-19 symptoms via telephone, prior to patients coming to clinic. As you know, cancer patients are especially vulnerable to infection, and we are doing everything possible to prevent the spread of COVID-19. Students will volunteer for a 1-2 hr shift, once per week. This position starts on Aug 1 and continues into the school year. Unpaid.",
@@ -110,7 +110,7 @@ export const sustainingProjects = [
     restrictions: "Students in Class of 2023",
     notes: "Please indicate if you have a health authority email"
   },
- {
+  {
     name: "BCCDC Data Registry",
     location: "BCCDC. 655 W 12th Ave, Vancouver, BC V5Z 4R4",
     description: "BCCDC is looking for volunteers to call COVID-19 survivors to enrol them in a data registry that will be used for future research. This project is estimated to start on July 22, 23 and run for about 3-4 weeks. There will be an online introduction prior to the start. This project takes place in the BCCDC building, where they are careful to maintain physical distancing with adequate sanitization of the desks and computers. The time commitment is 12 hours/week, broken down into two 6-hour shifts that you will be able to self-schedule. We are also looking for a student coordinator to help lead this project!",
@@ -119,7 +119,7 @@ export const sustainingProjects = [
     notes: "Students can schedule 6-hour shifts between 8:30am-4:30pm, 2 days/week (weekdays & weekends), for a total of about 3-4 weeks. This will be on a self-scheduling basis, so you will get to choose which days of the week you want to work, for a total of 12hrs (2 days)/week.",
     link: "https://docs.google.com/forms/d/e/1FAIpQLSemEkxc82daJryCL-uuuZR7YB5uSefU4L5weKnnfbc48Ral3A/viewform",
   },
-    {
+  {
     name: "811 Call Centre",
     location: "Langley & Burnaby call centres, BC",
     description: "811 is a phone-based service through which residents of BC can get in touch with allied health services to make inquiries about health concerns or navigating the healthcare system. In the wake of COVID-19, emergency departments are high-risk locations for spread, and 811 has become crucial for individuals to ask trained health professionals about their symptoms before deciding whether to present to hospital. As a result, 811 phone lines have become saturated, with waits as long as 2-6 hours.",
@@ -136,7 +136,7 @@ export const sustainingProjects = [
     notes: "We welcome all students! We are short of Cantonese and Spanish speakers, so we encourage students who speak these languages to partake in this project. Please indicate on your Google Form if you have conversational fluency in a language other than English.",
     link: "https://docs.google.com/forms/d/e/1FAIpQLSemEkxc82daJryCL-uuuZR7YB5uSefU4L5weKnnfbc48Ral3A/viewform",
   },
- {
+  {
     name: "BCCDC COVID-19 Testing Phoneline",
     location: "Vancouver, BC",
     description: "Answering/making calls regarding testing results and logging them into their EMR-type system; Since the changes to the testing strategy, call volumes have increased.",
