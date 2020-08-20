@@ -1,5 +1,14 @@
 export const currentProjects = [
   {
+    name: "BCCA Oncology Patient Screening",
+    location: "Remote Friendly",
+    description: "At BC Cancer, we are looking for the help of medical students to screen patients for COVID-19 symptoms via telephone, prior to patients coming to clinic. As you know, cancer patients are especially vulnerable to infection, and we are doing everything possible to prevent the spread of COVID-19. Students will volunteer for a 1-2 hr shift, once per week. We are looking for 2 students to start ASAP, and another 2 students to start on Sept 1. This position continues into the school year. Unpaid.",
+    studentRole: "Screen patients via telephone prior to coming to BCCA. 1-2h/day/week",
+    numStudents: "4: 2 students to start now, 2 to start on Sept 1",
+    restrictions: "Students in Class of 2023",
+    notes: "Please indicate if you have a health authority email"
+  },
+  {
     name: "Contact Tracing with Alberta Public Health",
     location: "Calgary AB and Remote Friendly",
     description: "Medical students, residents (public health and off service), nurses, nursing students and physicians in both Calgary and Edmonton are all working together to drastically scale up provincial contact tracing efforts. This work is done both in person at the Sheldon Chumir Center in Calgary as well as remotely from home.",
@@ -101,15 +110,6 @@ export const futureProjects = [
 
 
 export const sustainingProjects = [
-  {
-    name: "Oncology Patient Screening",
-    location: "Remote Friendly",
-    description: "At BC Cancer, we are looking for the help of medical students to screen patients for COVID-19 symptoms via telephone, prior to patients coming to clinic. As you know, cancer patients are especially vulnerable to infection, and we are doing everything possible to prevent the spread of COVID-19. Students will volunteer for a 1-2 hr shift, once per week. This position starts on Aug 1 and continues into the school year. Unpaid.",
-    studentRole: "Screen patients via telephone prior to coming to BCCA. 1-2h/day/week",
-    numStudents: "5",
-    restrictions: "Students in Class of 2023",
-    notes: "Please indicate if you have a health authority email"
-  },
   {
     name: "BCCDC Data Registry",
     location: "BCCDC. 655 W 12th Ave, Vancouver, BC V5Z 4R4",
