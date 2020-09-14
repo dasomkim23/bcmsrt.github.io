@@ -110,7 +110,7 @@ export const sustainingProjects = [
     restrictions: "Students in Class of 2023 & 2024",
     notes: "Please indicate if you have a health authority email, and your earliest start date"
   },
-   {
+  {
     name: "Connecting with Compassion",
     location: "Remote Friendly",
     description: "Social distancing during the COVID-19 pandemic is critical for public health, yet it creates a conundrum for frail and vulnerable older adults residing in Long-Term Care (LTC) homes. Residents often rely on visits from family and friends to prevent loneliness, boredom and social isolation. The challenge is even greater for seniors with cognitive impairment who may not fully understand the rationale for why family members are no longer visiting them. There is an urgent need to bridge the communication gap created by social distancing. Technology may be one of the ways to connect family members with long-term care residents, and thus prevent social isolation. We have purchased iPads with data capability for distribution at Mount St. Joseph LTC and UBC hospital. We're initiationg phase 2 shortly",
