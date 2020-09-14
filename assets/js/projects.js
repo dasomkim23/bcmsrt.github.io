@@ -1,13 +1,4 @@
 export const currentProjects = [
-   {
-    name: "BCCA Oncology Patient Screening",
-    location: "Remote Friendly",
-    description: "At BC Cancer, we are looking for the help of medical students to screen patients for COVID-19 symptoms via telephone, prior to patients coming to clinic. As you know, cancer patients are especially vulnerable to infection, and we are doing everything possible to prevent the spread of COVID-19. Students will volunteer for a 1-2 hr shift, once per week. Unpaid.",
-    studentRole: "Screen patients via telephone prior to coming to BCCA. 1-2h/day/week",
-    numStudents: "9, to start as soon as possible",
-    restrictions: "Students in Class of 2023 & 2024",
-    notes: "Please indicate if you have a health authority email, and your earliest start date"
-  },
   {
     name: "Contact Tracing with Alberta Public Health",
     location: "Calgary AB and Remote Friendly",
@@ -110,6 +101,15 @@ export const futureProjects = [
 
 
 export const sustainingProjects = [
+  {
+    name: "BCCA Oncology Patient Screening",
+    location: "Remote Friendly",
+    description: "At BC Cancer, we are looking for the help of medical students to screen patients for COVID-19 symptoms via telephone, prior to patients coming to clinic. As you know, cancer patients are especially vulnerable to infection, and we are doing everything possible to prevent the spread of COVID-19. Students will volunteer for a 1-2 hr shift, once per week. Unpaid.",
+    studentRole: "Screen patients via telephone prior to coming to BCCA. 1-2h/day/week",
+    numStudents: "30 students participating at this time",
+    restrictions: "Students in Class of 2023 & 2024",
+    notes: "Please indicate if you have a health authority email, and your earliest start date"
+  },
   {
     name: "Connecting with Compassion",
     location: "Remote Friendly",
