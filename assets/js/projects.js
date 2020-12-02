@@ -2,9 +2,9 @@ export const currentProjects = [
    {
     name: "BCCDC Data Registry",
     location: "BCCDC building (655 W 12th Ave, Vancouver, BC V5Z 4R4)",
-    description: "BCCDC is looking for volunteers to call COVID-19 survivors to enrol them in a data registry that will be used by researchers for various studies. This project is estimated to start in the middle of December, with the exact date to be determined shortly. At the moment, we are looking for volunteers until the end of January.  There will be an online introduction prior to the start. This project will take place at the BCCDC building, where they are careful to maintain physical distancing with adequate sanitization of the desks and computers. The time commitment is 4 hours/week for which you will be able to self-schedule, though you are able to sign up for more shifts if you want.",
+    description: "BCCDC is looking for volunteers to call COVID-19 survivors to enrol them in a data registry that will be used by researchers for various studies. This project is estimated to start between the middle of December to early January, with the exact date to be determined shortly. At the moment, we are looking for volunteers until the end of January.  There will be an online introduction prior to the start. This project will take place at the BCCDC building, where they are careful to maintain physical distancing with adequate sanitization of the desks and computers. The time commitment is 4 hours/week for which you will be able to self-schedule, though you are able to sign up for more shifts if you want.",
     studentRole: "Students will call COVID-19 survivors to consent and enrol them in a research registry.",
-    numStudents: "5 students from any years",
+    numStudents: "5 students minimum from any years",
     restrictions: "Students in Class of 2023 & 2024",
     notes: "Students can schedule their 4-hour shifts between 8:30am-7pm, 7 days/week (weekdays & weekends), for a total of about 6 weeks. This will be on a self-scheduling basis, so you will get to choose which days of the week you want to work, for a total of 4 hrs week."
   },
