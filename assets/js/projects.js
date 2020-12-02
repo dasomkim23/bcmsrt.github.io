@@ -119,7 +119,7 @@ export const futureProjects = [
 
 
 export const sustainingProjects = [
-    {
+  {
     name: "COVID Educational Videos",
     location: "Remote Friendly",
     description: "Working with EdTech at UBC FoM media to create short, 1-2 minute YouTube videos to educate the public on various COVID topics. Videos range from social distancing, to how is COVID transmitted, to an educational mini-series for kids. Much of the animation is outsourced to an animation company. We are also expanding to other media, including an interactive game for kids (hence the programmers).",
