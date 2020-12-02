@@ -1,4 +1,13 @@
 export const currentProjects = [
+   {
+    name: "BCCDC Data Registry",
+    location: "BCCDC building (655 W 12th Ave, Vancouver, BC V5Z 4R4)",
+    description: "BCCDC is looking for volunteers to call COVID-19 survivors to enrol them in a data registry that will be used by researchers for various studies. This project is estimated to start in the middle of December, with the exact date to be determined shortly. At the moment, we are looking for volunteers until the end of January.  There will be an online introduction prior to the start. This project will take place at the BCCDC building, where they are careful to maintain physical distancing with adequate sanitization of the desks and computers. The time commitment is 4 hours/week for which you will be able to self-schedule, though you are able to sign up for more shifts if you want.",
+    studentRole: "Students will call COVID-19 survivors to consent and enrol them in a research registry.",
+    numStudents: "5 students from any years",
+    restrictions: "Students in Class of 2023 & 2024",
+    notes: "Students can schedule their 4-hour shifts between 8:30am-7pm, 7 days/week (weekdays & weekends), for a total of about 6 weeks. This will be on a self-scheduling basis, so you will get to choose which days of the week you want to work, for a total of 4 hrs week."
+  },
   {
     name: "Connecting with Compassion",
     location: "Remote Friendly",
@@ -110,16 +119,7 @@ export const futureProjects = [
 
 
 export const sustainingProjects = [
-   {
-    name: "BCCA Oncology Patient Screening",
-    location: "Remote Friendly",
-    description: "At BC Cancer, we are looking for the help of medical students to screen patients for COVID-19 symptoms via telephone, prior to patients coming to clinic. As you know, cancer patients are especially vulnerable to infection, and we are doing everything possible to prevent the spread of COVID-19. Students will volunteer for a 1-2 hr shift, once per week. Unpaid.",
-    studentRole: "Screen patients via telephone prior to coming to BCCA. 1-2h/day/week",
-    numStudents: "30 students participating at this time",
-    restrictions: "Students in Class of 2023 & 2024",
-    notes: "Please indicate if you have a health authority email, and your earliest start date"
-  },
-  {
+    {
     name: "COVID Educational Videos",
     location: "Remote Friendly",
     description: "Working with EdTech at UBC FoM media to create short, 1-2 minute YouTube videos to educate the public on various COVID topics. Videos range from social distancing, to how is COVID transmitted, to an educational mini-series for kids. Much of the animation is outsourced to an animation company. We are also expanding to other media, including an interactive game for kids (hence the programmers).",
